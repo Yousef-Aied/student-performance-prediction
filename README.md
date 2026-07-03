@@ -1,4 +1,4 @@
-Student Performance Prediction
+### Student Performance Prediction
 
 This project contains two machine learning models:
 
